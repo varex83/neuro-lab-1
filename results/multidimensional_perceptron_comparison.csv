@@ -1,0 +1,13 @@
+Dimensions,Activation,Accuracy,Iterations
+3,step,1.0,2
+3,sigmoid,1.0,2
+3,relu,1.0,2
+3,tanh,1.0,2
+5,step,1.0,2
+5,sigmoid,1.0,2
+5,relu,1.0,2
+5,tanh,1.0,2
+10,step,1.0,1
+10,sigmoid,1.0,1
+10,relu,1.0,2
+10,tanh,1.0,2

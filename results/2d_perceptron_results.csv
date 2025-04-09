@@ -1,0 +1,5 @@
+Activation,Accuracy,Iterations
+step,1.0,2
+sigmoid,1.0,2
+relu,1.0,5
+tanh,1.0,3
